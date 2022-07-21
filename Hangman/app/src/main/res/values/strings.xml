@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hangman</string>
+
+
+    <string name="facebook_app_id">704160270688152</string>
+    <string name="fb_login_protocol_scheme">fb704160270688152</string>
+    <string name="facebook_client_token">20acddbea3bf22d914f883134d0062f7</string>
+
+
+</resources>
